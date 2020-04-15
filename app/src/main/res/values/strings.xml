@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">LMSApp</string>
+    <string name="str_msg_login" translatable="false">Faça seu acesso</string>
+
+    <string name="action_buscar">Buscar</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_adicionar">Adicionar</string>
+    <string name="action_config">Configurações</string>
+
+    <string name="login_OK">Você logou no sistema com sucesso.</string>
+    <string name="login_ERR">Usuário ou senha incorretos.</string>
+
+
+</resources>
